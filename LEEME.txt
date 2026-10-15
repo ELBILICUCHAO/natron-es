@@ -1,0 +1,49 @@
+NATRON EN ESPANOL
+=================
+Traduccion completa de la interfaz de Natron (2.5) al espanol.
+Gratis y libre (GPL). No modifica el programa: solo agrega los archivos
+de idioma.
+
+QUE INCLUYE
+-----------
+  initGui.py            -> archivo que hace que Natron cargue la traduccion
+  traducciones/natron_es.qm  -> menus, ventanas y paneles de Natron (1762 textos)
+  traducciones/qt_es.qm      -> dialogos estandar de Qt (Abrir, Guardar...)
+  traducciones/qtbase_es.qm  -> mas dialogos estandar de Qt
+
+NOTA: los NOMBRES de los nodos y grupos (Read, Write, Merge, Keyer, GMIC,
+Transform, Color...) estan escritos a mano dentro del programa y NO se
+pueden traducir sin recompilar Natron. Todo lo demas si se traduce.
+
+COMO INSTALAR EN LINUX
+----------------------
+1) Cierra Natron si esta abierto.
+2) Abre una terminal dentro de esta carpeta.
+3) Escribe:   bash instalar-linux.sh
+4) Abre Natron. Ya debe verse en espanol.
+
+COMO INSTALAR EN WINDOWS
+------------------------
+1) Cierra Natron si esta abierto.
+2) Haz doble clic en:   instalar-windows.bat
+3) Abre Natron. Ya debe verse en espanol.
+
+COMO DESINSTALAR
+----------------
+Borra el archivo initGui.py que esta en la carpeta .Natron dentro de tu
+carpeta de usuario. Si se guardo un respaldo, se llama initGui.py.respaldo.
+
+SI ALGUN TEXTO SE CORTA
+-----------------------
+El espanol es mas largo que el ingles, asi que algun texto puede quedar
+cortado. Se soluciona bajando un poco el tamano de letra: en la carpeta
+.Natron abre el archivo Natron.conf y agrega esta linea (o cambia el numero):
+
+    fontSize=10
+
+Tambien puedes subir el numero (11, 12) si lo prefieres mas grande.
+
+COMO SE HIZO
+------------
+La traduccion se extrajo del propio codigo de Natron y se compilo a archivos
+.qm. Los dialogos estandar usan la traduccion oficial de Qt en espanol.
