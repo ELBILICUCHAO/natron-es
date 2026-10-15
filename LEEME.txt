@@ -43,6 +43,21 @@ cortado. Se soluciona bajando un poco el tamano de letra: en la carpeta
 
 Tambien puedes subir el numero (11, 12) si lo prefieres mas grande.
 
+NUESTRA HISTORIA (Y NUESTRA LABOR SOCIAL)
+-----------------------------------------
+Este paquete nacio una tarde cualquiera, cuando no teniamos nada mejor que hacer
+y andabamos buscando la forma de editar fondos en una PC muy vieja y modesta
+(un Celeron sin tarjeta de video). Descubrimos Natron, nos encanto... pero
+estaba todo en ingles. Asi que nos pusimos a traducirlo, sin prisa y con carino.
+
+Lo compartimos porque la mejor regla de internet es esta: si algo te sirvio,
+compartelo para que le sirva a alguien mas. Nosotros nos apoyamos en muchisimo
+trabajo ajeno (el codigo abierto de Natron, las traducciones oficiales de Qt,
+tutoriales y foros de gente generosa), asi que devolver un pedacito nos parece
+lo justo. Es nuestra humilde labor social.
+
+Si te sirvio, usalo, copialo y pasalo. Si lo mejoras, compartelo tambien.
+
 COMO SE HIZO
 ------------
 La traduccion se extrajo del propio codigo de Natron y se compilo a archivos

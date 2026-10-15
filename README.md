@@ -43,6 +43,26 @@ fontSize=10
 
 Borra el archivo `initGui.py` dentro de tu carpeta `.Natron`.
 
+## Nuestra historia (y nuestra labor social)
+
+Este paquete nació una tarde cualquiera, cuando no teníamos nada mejor que hacer
+y andábamos buscando la forma de editar fondos en una PC muy vieja y modesta (un
+Celeron sin tarjeta de video, de esas que ya no quieren ni encender). Descubrimos
+Natron, nos encantó... pero estaba todo en inglés. Así que nos pusimos a
+traducirlo, poco a poco, sin prisa y con cariño.
+
+Lo compartimos porque la mejor regla de internet es esta: **si algo te sirvió,
+compártelo para que le sirva a alguien más.** Nosotros nos apoyamos en
+muchísimo trabajo ajeno (el código abierto de Natron, las traducciones oficiales
+de Qt, tutoriales y foros de gente generosa), así que devolver un pedacito nos
+parece lo justo. Es nuestra humilde **labor social**.
+
+Si te sirvió, úsalo, cópialo y pásalo. Si lo mejoras, compártelo también.
+Solo queremos que el siguiente, en una compu vieja como la nuestra, ya no
+batalle con el inglés.
+
+— Hecho con cariño por un usuario cualquiera de PC.
+
 ## Créditos y licencia
 
 - Natron es software libre bajo licencia **GPL-2.0**.
